@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/65/trunk/jarjar/maven
+END
+pom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/65/trunk/jarjar/maven/pom.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/65/trunk/jarjar/maven/pom.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/65/trunk/jarjar/maven/plugin.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/135/trunk/jarjar/src/test
+END
+enumtest.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/80/trunk/jarjar/src/test/enumtest.jar
+END
+Generics.class
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/34/trunk/jarjar/src/test/Generics.class
+END

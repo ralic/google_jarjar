@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/128/tags/release-1-0/jarjar/lib
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/128/tags/release-1-0/jarjar/lib/asm-3.1.jar
+END
+asm-commons-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/128/tags/release-1-0/jarjar/lib/asm-commons-3.1.jar
+END
+maven-plugin-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/128/tags/release-1-0/jarjar/lib/maven-plugin-api.jar
+END

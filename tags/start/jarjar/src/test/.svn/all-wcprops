@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/tags/start/jarjar/src/test
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/tags/start/jarjar/src/test/foo.txt
+END

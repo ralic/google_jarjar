@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/54/tags/release-0-6/jarjar/src/main/com/tonicsystems/jarjar/regex
+END
+GnuRegexEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/54/tags/release-0-6/jarjar/src/main/com/tonicsystems/jarjar/regex/GnuRegexEngine.java
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/54/tags/release-0-6/jarjar/src/main/com/tonicsystems/jarjar/regex/Pattern.java
+END
+RegexEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/54/tags/release-0-6/jarjar/src/main/com/tonicsystems/jarjar/regex/RegexEngine.java
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/54/tags/release-0-6/jarjar/src/main/com/tonicsystems/jarjar/regex/Matcher.java
+END

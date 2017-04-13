@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/142/trunk/jarjar/src/main/com/tonicsystems/jarjar
+END
+ResourceProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/91/trunk/jarjar/src/main/com/tonicsystems/jarjar/ResourceProcessor.java
+END
+PatternElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/122/trunk/jarjar/src/main/com/tonicsystems/jarjar/PatternElement.java
+END
+PackageRemapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/135/trunk/jarjar/src/main/com/tonicsystems/jarjar/PackageRemapper.java
+END
+DepFindVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/135/trunk/jarjar/src/main/com/tonicsystems/jarjar/DepFindVisitor.java
+END
+Wildcard.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132/trunk/jarjar/src/main/com/tonicsystems/jarjar/Wildcard.java
+END
+ExcludeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/134/trunk/jarjar/src/main/com/tonicsystems/jarjar/ExcludeProcessor.java
+END
+StringReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/135/trunk/jarjar/src/main/com/tonicsystems/jarjar/StringReader.java
+END
+ZapProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/122/trunk/jarjar/src/main/com/tonicsystems/jarjar/ZapProcessor.java
+END
+AbstractDepHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/122/trunk/jarjar/src/main/com/tonicsystems/jarjar/AbstractDepHandler.java
+END
+Zap.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/91/trunk/jarjar/src/main/com/tonicsystems/jarjar/Zap.java
+END
+JarJarTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/122/trunk/jarjar/src/main/com/tonicsystems/jarjar/JarJarTask.java
+END
+JarJarMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/122/trunk/jarjar/src/main/com/tonicsystems/jarjar/JarJarMojo.java
+END
+EmptyClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/trunk/jarjar/src/main/com/tonicsystems/jarjar/EmptyClassVisitor.java
+END
+DepHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/91/trunk/jarjar/src/main/com/tonicsystems/jarjar/DepHandler.java
+END
+ManifestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/120/trunk/jarjar/src/main/com/tonicsystems/jarjar/ManifestProcessor.java
+END
+RulesFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/142/trunk/jarjar/src/main/com/tonicsystems/jarjar/RulesFileParser.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/91/trunk/jarjar/src/main/com/tonicsystems/jarjar/Rule.java
+END
+DepFind.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/122/trunk/jarjar/src/main/com/tonicsystems/jarjar/DepFind.java
+END
+TextDepHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/91/trunk/jarjar/src/main/com/tonicsystems/jarjar/TextDepHandler.java
+END
+PathClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/91/trunk/jarjar/src/main/com/tonicsystems/jarjar/PathClass.java
+END
+MainUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/122/trunk/jarjar/src/main/com/tonicsystems/jarjar/MainUtil.java
+END
+StringDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/122/trunk/jarjar/src/main/com/tonicsystems/jarjar/StringDumper.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/126/trunk/jarjar/src/main/com/tonicsystems/jarjar/Main.java
+END
+Keep.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/91/trunk/jarjar/src/main/com/tonicsystems/jarjar/Keep.java
+END
+MainProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/135/trunk/jarjar/src/main/com/tonicsystems/jarjar/MainProcessor.java
+END
+KeepProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/139/trunk/jarjar/src/main/com/tonicsystems/jarjar/KeepProcessor.java
+END
+help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/126/trunk/jarjar/src/main/com/tonicsystems/jarjar/help.txt
+END

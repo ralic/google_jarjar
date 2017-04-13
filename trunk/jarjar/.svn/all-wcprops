@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/142/trunk/jarjar
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/jarjar/COPYING
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/137/trunk/jarjar/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/141/trunk/jarjar/build.xml
+END
